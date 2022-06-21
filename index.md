@@ -1,10 +1,10 @@
 ## Profiles
 
-<A HREF="https://github.com/RiX012/"><IMG SRC="img\github_logo_48.png" ALT="Bezoek GitHub profiel" ALIGN="bottom"></A>
+<A HREF="https://github.com/RiX012/"><IMG SRC="img\github_logo_48.png" ALT="Bezoek GitHub profiel" TARGET="_blank"></A>
 
 RiX012 @ [https://github.com/RiX012/][github]
 
-<A HREF="https://www.linkedin.com/in/rop11/"><IMG SRC="img\linkedin_logo_icon_147268.png" ALT="Bezoek LinkedIn profiel" ALIGN="bottom"></A>
+<A HREF="https://www.linkedin.com/in/rop11/"><IMG SRC="img\linkedin_logo_icon_147268.png" ALT="Bezoek LinkedIn profiel" TARGET="_blank"></A>
 
 Rik O @ [https://www.linkedin.com/in/rop11/][linkedin]
 
